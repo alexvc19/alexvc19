@@ -11,7 +11,7 @@ Software engineer student 💻
 # You can found me 
 
 1. [LinkenIn](www.linkedin.com/in/imalexvelasco)
-2. [Twitter](https://twitter.com/ImAlexvc)
+2. [Twitter](https://twitter.com/im_alexvc)
 
 -------------
 
