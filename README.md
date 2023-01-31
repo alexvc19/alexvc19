@@ -1,12 +1,13 @@
+![](https://a-static.besthdwallpaper.com/computer-workstation-minimalist-wallpaper-2800x1050-22308_88.jpg)
+
 ## Hi there 🤙
 
 #### Hello everyone, I am Alex and I am a software engineer student, I really like the development native of mobile applications and cross platform with flutter. 
 
 I am currently in university 🏫
-I am currently working as ios dev 🧑‍💻
 
 Software engineer student 💻
- Mobile developer 📱
+Mobile developer 📱
 
 # You can found me 
 
